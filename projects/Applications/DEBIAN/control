@@ -1,5 +1,5 @@
-Package: com.unlimitos.CleanApp
-Name: CleanApp
+Package: com.unlimitos.CleanAppManager
+Name: CleanAppManager
 Version: 1.0
 Architecture: iphoneos-arm
 Description: an example of using APT
