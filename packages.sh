@@ -1,2 +1,2 @@
-dpkg-deb -Zgzip -b projects/CleanAppManager debs
+dpkg-deb -Zgzip -b projects/Applications/CleanAppManager debs
 

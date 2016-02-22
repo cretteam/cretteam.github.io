@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Tran Quoc Huy <unlimitos.gmail.com>
 Filename: ./debs//com.unlimitos.cleanappmanager_1.0_iphoneos-arm.deb
 Size: 140500
-MD5sum: 2b99616d0215899b668b7c27925d759f
-SHA1: 89fa696a18ac46ea6b79b0e91b64fde1f6bfdc2e
-SHA256: b41912eb61f9a1bf6c26e9eb307153273ed8191a59e1f003286cac5dae75dd26
+MD5sum: fa2b805ffb03463257c98d8c99c325d3
+SHA1: c337757758a9f71c915026d9081c7f78ff99a7e2
+SHA256: ec50aa3b7d34f286023be89d1211ec1bd7f012c67d222b8af497295e16ef0594
 Section: Utinity
 Homepage: http://www.mobitechnews.com
 Description: The best tools for Clean Applications.
