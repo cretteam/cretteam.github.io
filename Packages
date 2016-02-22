@@ -3,11 +3,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tran Quoc Huy <unlimitos.gmail.com>
 Filename: ./debs//com.unlimitos.cleanappmanager_1.0_iphoneos-arm.deb
-Size: 139370
-MD5sum: ff11d615d4812ebebb2d2b7396f5ccdd
-SHA1: 3a1bade1a81dcbd1be37e925e7703487fcbc0baa
-SHA256: 70b8a85650ba06eb658b8d3fe466e89a39621861aa28bd6529c751cfdcfbbeaf
-Section: Utilities
+Size: 140864
+MD5sum: 6cc6114c275752c670b823fc350c799a
+SHA1: fa1cba96672e491058c373c456476da2c8231a6e
+SHA256: ec6fd1981d00ec0de36530a24b5966812c463ff6edc11a9681b03e76a5bf8e5d
+Section: Utinity
 Homepage: http://www.mobitechnews.com
 Description: an example of using APT
  Every day people use Cydia, but with the
