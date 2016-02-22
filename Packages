@@ -1,19 +1,16 @@
-Package: com.unlimitos.CleanApp
+Package: com.unlimitos.CleanAppManager
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tran Quoc Huy <unlimitos.gmail.com>
-Filename: ./debs//com.unlimitos.cleanapp_1.0_iphoneos-arm.deb
-Size: 140152
-MD5sum: b1a3b87b086270e761ae4d9864a1ff4b
-SHA1: f00fc85a23c3a016e54a725166315439b2421f3d
-SHA256: 9012b16357872e0f5d79c0992156361fdced221f884f739e001a45e0c6d84753
+Filename: ./debs//com.unlimitos.cleanappmanager_1.0_iphoneos-arm.deb
+Size: 140500
+MD5sum: 2b99616d0215899b668b7c27925d759f
+SHA1: 89fa696a18ac46ea6b79b0e91b64fde1f6bfdc2e
+SHA256: b41912eb61f9a1bf6c26e9eb307153273ed8191a59e1f003286cac5dae75dd26
 Section: Utinity
 Homepage: http://www.mobitechnews.com
-Description: an example of using APT
- Every day people use Cydia, but with the
- instructions embodied in this package,
- people can publish for it as well.
+Description: The best tools for Clean Applications.
 Author: Tran Quoc Huy
 Depiction: http://www.mobitechnews.com
-Name: CleanApp
+Name: CleanAppManager
 
