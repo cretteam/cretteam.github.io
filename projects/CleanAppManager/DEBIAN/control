@@ -1,0 +1,15 @@
+Package: com.unlimitos.CleanApp
+Name: CleanApp
+Version: 1.0
+Architecture: iphoneos-arm
+Description: an example of using APT
+ Every day people use Cydia, but with the
+ instructions embodied in this package,
+ people can publish for it as well.
+Homepage: http://www.mobitechnews.com
+Depiction: http://www.mobitechnews.com
+Maintainer: Tran Quoc Huy <unlimitos.gmail.com>
+Author: Tran Quoc Huy
+Section: Utinity
+
+
